@@ -2,4 +2,4 @@
 test
 -fix-b
 abcde
-faeture-C
+feature-C
